@@ -7,6 +7,7 @@ accounts.spiceworks.com
 accuweather.brightspotcdn.com
 accuweather.com
 acm.org
+activity.windows.com
 activity.windows.coms
 ad.apps.fm
 adage.com
@@ -315,6 +316,7 @@ geo.yahoo.com
 geocities.jp
 ghacks.net
 gist.githubusercontent.com
+gitcdn.xyz
 github-production-release-asset-2e65be.s3.amazonaws.com
 github.com
 github.githubassets.com
@@ -520,6 +522,7 @@ netflix.com
 news.google.com
 news.mit.edu
 news.nationalgeographic.com
+news.sky.com
 news.softpedia.com
 news.stanford.edu
 nextmedia.com.au
@@ -717,6 +720,7 @@ skyhook.sonarr.tv
 slashdot.org
 slatestarcodex.com
 smartplugin.youbora.com
+sml
 sml156.wordpress.com
 snopes.com
 sodc.wunderground.com
@@ -1289,6 +1293,7 @@ www.howtogeek.com
 www.howtogeek.disqus.com
 www.hubspot.com
 www.hulu.com
+www.i-programmer.info
 www.i.guim.co.uk
 www.i.imgur.com
 www.i.stack.imgur.com
@@ -1898,6 +1903,3 @@ zdnet3.cbsistatic.com
 zerocater.com
 zerodot1.gitlab.io
 zeustracker.abuse.ch
-gitcdn.xyz
-sml
-example.com
