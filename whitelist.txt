@@ -1906,3 +1906,5 @@ zeustracker.abuse.ch
 example.com
 crontab.guru
 platform.leolabs.space
+test.com
+anything.com
