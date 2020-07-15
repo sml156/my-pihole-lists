@@ -1,4 +1,3 @@
-1mb.site
 2.bp.blogspot.com
 2.gravatar.com
 4.bp.blogspot.com
@@ -138,6 +137,7 @@ ccleaner.com
 ccleaner.tools.avcdn.net
 cdn-images-1.medium.com
 cdn.afterdawn.fi
+cdn.ap.bittorrent.com
 cdn.arstechnica.net
 cdn.chrisshort.net
 cdn.cnn.com
@@ -191,6 +191,7 @@ core.windows.net
 cornell.edu
 cringely.com
 crl.microsoft.com
+crontab.guru
 cryptauthenrollment.googleapis.com
 crystal-lang.org
 cse.google.com
@@ -201,6 +202,7 @@ cyclingtips.com
 cyclingtips.disqus.com
 d-cal.com
 d.ghostery.com
+dailymail.co.uk
 darknet.org.uk
 dashboard.plex.tv
 debian.org
@@ -211,6 +213,7 @@ dezeen.com
 dfkrkqaqb1zsx.cloudfront.net
 diablohorn.files.wordpress.com
 didierstevens.files.wordpress.com
+digi.ninja
 digitalocean.com
 discourse-cdn-aws1.com
 discourse-cdn-sjc3.com
@@ -224,6 +227,7 @@ disquscdn.com
 djtflbt20bdde.cloudfront.net
 dl.dropbox.com
 dl.dropboxusercontent.com
+dns.msftncsi.com
 docker.com
 docs.live.net
 docs.microsoft.com
@@ -297,6 +301,7 @@ forum.xda-cdn.com
 forum.xda-developers.com
 forums.macrumors.com
 forums.sonarr.tv
+fossbytes.com
 fota-cloud-dn.ospserver.net
 fotoforensics.com
 fox.com
@@ -344,6 +349,7 @@ gravatar.com
 gstatic.com
 guardian.map.fastly.net
 guce.engadget.com
+guce.techcrunch.com
 guim.co.uk
 gurud.ee
 hackaday.com
@@ -365,7 +371,9 @@ hostsfile.mine.nu
 hostsfile.org
 howtogeek.com
 howtogeek.disqus.com
+https://www.publicdns.xyz/country/
 hubspot.com
+huli.life
 hulu.com
 i.guim.co.uk
 i.imgur.com
@@ -403,6 +411,7 @@ imgur.com
 inbox.google.com
 inference.location.live.net
 infoq.com
+infradead.org
 inoreader.com
 insidebigdata.com
 int.nyt.com
@@ -430,6 +439,7 @@ jquery.com
 js.maxmind.com
 js.out.sh
 js.stripe.com
+kali.download
 kampyle.com
 keep-art.co.uk
 kickstarter.com
@@ -458,6 +468,7 @@ linuxboot.org
 linuxconfig.disqus.com
 linuxconfig.org
 linuxjournal.com
+lists.infradead.org
 live.com
 live.github.com
 login.live.com
@@ -526,6 +537,7 @@ news.sky.com
 news.softpedia.com
 news.stanford.edu
 nextmedia.com.au
+nexus.officeapps.live.com
 nickwignall.com
 niecko.pl
 niemanlab.org
@@ -592,6 +604,7 @@ pi.hole
 pill.com
 pinterest.com
 pixel.wp.com
+platform.leolabs.space
 platform.twitter.com
 play.google.com
 playback.akamaized.net
@@ -614,6 +627,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 psg-prod-eastus.cloudapp.net
 public-api.wordpress.com
+public-dns.info
 publicsuffix.org
 pubsub.plex.bz
 pubsub.plex.tv
@@ -625,6 +639,13 @@ qme.mydns.jp
 queue.acm.org
 r-login.wordpress.com
 r000t.com
+r2---sn-4g5e6n76.gvt1.com  
+r2---sn-4g5ednsk.gvt1.com 
+r2---sn-4g5ednsy.gvt1.com 
+r2---sn-gvbxgn-tt1el.gvt1.com
+r2---sn-gvbxgn-tt1es.gvt1.com
+r2---sn-gvbxgn-tt1s.gvt1.com
+rabbitears.info
 ransomwaretracker.abuse.ch
 raspberrypi.org
 raw.github.com
@@ -693,6 +714,7 @@ satterly.neocities.org
 sb-ssl.google.com
 sb-ssl.l.google.com
 schneier.com
+sci-hub.tw
 sciencemag.org
 scientificamerican.com
 scontent-lhr3-1.xx.fbcdn.net
@@ -712,6 +734,7 @@ sendbird.reddit.com
 serverfault.com
 services.disqus.com
 services.sonarr.tv
+settings-win.data.microsoft.com
 sevenforums.com
 sfgate.com
 shop.lego.com
@@ -731,6 +754,8 @@ sourceforge.net
 southsimcoepolice.on.ca
 spclient.wg.spotify.com
 speedtest.net
+spiceworks.cmail19.com
+spiceworks.cmail20.com
 spiceworks.com
 spiceworksstatic.com
 sportsnet.ca
@@ -838,7 +863,9 @@ torrentfreak.com
 tpbclean.com
 tpbclean.info
 track.spiceworks.com
+tracker.coppersurfer.tk
 tracker.leechers-paradise.org
+tracker.opentrackr.org
 tracker2.wasabii.com.tw
 tracking-protection.cdn.mozilla.net
 translate.google.com
@@ -876,6 +903,7 @@ user-images.githubusercontent.com
 users.storage.live.com
 utorrent.com
 v.firebog.net
+v10.events.data.microsoft.com
 vas.samsungapps.com
 vice.com
 video-stats.l.google.com
@@ -1126,6 +1154,7 @@ www.cyclingtips.com
 www.cyclingtips.disqus.com
 www.d-cal.com
 www.d.ghostery.com
+www.dailymail.co.uk
 www.dailystar.co.uk
 www.darknet.org.uk
 www.dashboard.plex.tv
@@ -1549,6 +1578,10 @@ www.qme.mydns.jp
 www.queue.acm.org
 www.r-login.wordpress.com
 www.r000t.com
+www.r2---sn-4g5e6n76.gvt1.com 
+www.r2---sn-4g5ednsk.gvt1.com 
+www.r2---sn-4g5ednsy.gvt1.com
+www.rabbitears.info
 www.ransomwaretracker.abuse.ch
 www.raspberrypi.org
 www.raw.github.com
@@ -1871,6 +1904,7 @@ www.zdnet-1.disqus.com
 www.zdnet.com
 www.zerocater.com
 www.zerodot1.gitlab.io
+www.zerogk.space
 www.zeustracker.abuse.ch
 www1-lw.xda-cdn.com
 www3.l.google.com
@@ -1882,6 +1916,7 @@ xda-developers.com
 xe.cocomobi.com
 xtra2.gpsonextra.net
 xug.com
+xyz.com
 yahoo.com
 ycombinator.com
 yimg.com
@@ -1903,11 +1938,3 @@ zdnet3.cbsistatic.com
 zerocater.com
 zerodot1.gitlab.io
 zeustracker.abuse.ch
-crontab.guru
-platform.leolabs.space
-bumstab.com
-1.com
-2.com
-3.com
-4.com
-jokerstash.biz
