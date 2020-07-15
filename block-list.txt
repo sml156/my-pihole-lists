@@ -8,14 +8,18 @@ i-43.b-44809.ut.bench.utorrent.com
 i-62.b-44809.ut.bench.utorrent.com
 l.aaxads.com
 ledger-crypto.atlas.bt.co
+mcube-ota.oss-cn-beijing.aliyuncs.com
 mintigo-sovrn-pixel.devtigo.com
 onecs-live.azureedge.net
+oss-cn-beijing.aliyuncs.com
 oth.eve.mdt.qq.com
 pd.sharethis.com
 rink.hockeyapp.net
 searchers13.club
 searchers13.club  # malware search site, Installs pup redirect searches
 theglobeandmail.com
+us-u.openx.net
+web.whatsapp.com
 wpad
 wpad.lan
 wpad.local
