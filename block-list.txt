@@ -12,6 +12,7 @@ i-62.b-44809.ut.bench.utorrent.com
 i-64.b-45672.ut.bench.utorrent.com
 l.aaxads.com
 ledger-crypto.atlas.bt.co
+notepad-plus-plus.org
 m.thepiratebay.org
 mcube-ota.oss-cn-beijing.aliyuncs.com
 mintigo-sovrn-pixel.devtigo.com
